@@ -1,0 +1,5 @@
+https://www.w3schools.com/sql/
+https://learn.microsoft.com/ru-ru/sql/connect/node-js/step-3-proof-of-concept-connecting-to-sql-using-node-js?view=sql-server-ver16
+https://www.w3schools.com/nodejs/nodejs_mysql.asp
+https://metanit.com/web/nodejs/8.1.php
+https://blog.logrocket.com/build-rest-api-node-express-mysql/
